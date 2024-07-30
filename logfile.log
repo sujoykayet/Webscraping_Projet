@@ -1,0 +1,5 @@
+SUJAYPC      : 2024-07-27 22:25:29,886: DEBUG: Debug info
+SUJAYPC      : 2024-07-27 22:25:29,887: INFO: Python Test execution started
+SUJAYPC      : 2024-07-27 22:25:29,887: WARNING: Wrning message Python
+SUJAYPC      : 2024-07-27 22:25:29,887: ERROR: Error message
+SUJAYPC      : 2024-07-27 22:25:29,888: CRITICAL: Critical message
