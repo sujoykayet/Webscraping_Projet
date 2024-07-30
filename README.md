@@ -17,8 +17,8 @@ This project aims to develop a Python-based web scraping tool to collect detaile
 #### Key Components
 
 1. **Setup and Configuration:**
-   - **Environment Setup:** Install necessary Python libraries (`selenium`, `pandas`, `beautifulsoup4` for parsing HTML).
-   - **WebDriver Configuration:** Set up Selenium WebDriver (e.g., ChromeDriver, GeckoDriver) to interact with the Zomato website.
+   - **Environment Setup:** Install necessary Python libraries (`selenium`, `pandas`).
+   - **WebDriver Configuration:** Set up Selenium WebDriver (ChromeDriver) to interact with the Zomato website.
 
 2. **Scraping Process:**
    - **Outlets Discovery:**
